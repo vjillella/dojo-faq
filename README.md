@@ -8,7 +8,7 @@ Features:
 * Commodo fugiat quis aut magna qui ita aut dolor cillum fore.
 * Quo veniam cupidatat cohaerescant, irure hic si varias ullamco.
 
-## Aute efflorescere cupidatat anim fabulas hic ita ipsum enim qui arbitror.
+## How to use Dojo on your web page?
 
 Probant praesentibus est iudicem, occaecat ita ingeniis o ingeniis nisi summis 
 voluptate culpa do laborum nisi quid an fore, sunt quibusdam quo quae culpa, et 
@@ -20,13 +20,13 @@ singulis.
   });
 ```
 
-## Tempor relinqueret ab tempor, illum ea ita illum voluptate.
+## What is the purpose of dojoConfig?
 
 Ita minim distinguantur, id incurreret ut appellat. Si veniam mandaremus. Non 
 multos cupidatat te probant ubi duis offendit. Ea fugiat aliqua ab possumus hic 
 non quem voluptate nam nam amet nescius incididunt et ea fugiat ullamco commodo.
 
-## Id duis probant praesentibus, ex e quid pariatur.
+## Explain the difference between Legacy and AMD loaders?
 
 Mentitum noster varias incurreret quorum ubi sed cupidatat quo offendit ita ea 
 arbitror te incurreret te ingeniis ne sunt id vidisse fore vidisse, non laboris 
