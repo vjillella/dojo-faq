@@ -1,14 +1,24 @@
 <!DOCTYPE html>
 <html>
-<head>
+  
+  <head>
     <title>Dojo Faq</title>
-</head>
-<body>
-    <script
-        src="http://cdnjs.cloudflare.com/ajax/libs/documentup/0.1.1/documentup.min.js">
+  </head>
+  
+  <body>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/documentup/0.1.1/documentup.min.js">
+      
     </script>
     <script>
-        DocumentUp.document("codesnipp/dojo-faq");
+      //DocumentUp.document("codesnipp/dojo-faq");
+      DocumentUp.document({
+        repo: "codesnipp/dojo-faq",
+        name: "Dojo Faq",
+        afterRender: function() {
+          alert("rendered");
+        }
+      });
     </script>
-</body>
+  </body>
+
 </html>
