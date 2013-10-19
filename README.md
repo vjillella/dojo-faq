@@ -59,7 +59,7 @@ While loading Dojo in your page, dojoConfig is the way we communicate configurat
 
 * Programmatic way
 
-```javascript
+```html
 <script>
   var dojoConfig = {
     parseOnLoad: true,
@@ -73,7 +73,7 @@ While loading Dojo in your page, dojoConfig is the way we communicate configurat
 
 * Declarative way
 
-```javascript
+```html
 <script src="//ajax.googleapis.com/ajax/libs/dojo/1.8.0/dojo/dojo.js"
   data-dojo-config="parseOnLoad: true, isDebug:true, async: true">
 ```
