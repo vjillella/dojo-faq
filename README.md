@@ -1,5 +1,7 @@
 # Dojo Faq
 
+[![Join the chat at https://gitter.im/vjillella/dojo-faq](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vjillella/dojo-faq?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## How do I use Dojo in my web page?
 
 Using Dojo in your page could be as simple as below
